@@ -160,5 +160,9 @@ cython_debug/
 #.idea/
 *.csv
 *.pdf
+<<<<<<< HEAD
 *.csv.gz
 *.txt
+=======
+*.csv.gz
+>>>>>>> 2e7dc12cb4819518e9433f8b13a9221f1c8718f1
