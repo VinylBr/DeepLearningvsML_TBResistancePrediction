@@ -34,7 +34,7 @@ Deep learning framework gave a poorer performace in comparison to traditional ML
 8. tqdm
 
 ## Data
-CRyPTIC Consortium: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001721
+CRyPTIC Consortium: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001721 <br>
 Dataset: http://ftp.ebi.ac.uk/pub/databases/cryptic/release_june2022/
 
 ## Sources of Inspiration
