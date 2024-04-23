@@ -38,8 +38,8 @@ CRyPTIC Consortium: https://journals.plos.org/plosbiology/article?id=10.1371/jou
 Dataset: http://ftp.ebi.ac.uk/pub/databases/cryptic/release_june2022/
 
 ## Sources of Inspiration
-https://chriskhanhtran.github.io/posts/cnn-sentence-classification/
-https://campus.datacamp.com/courses/intermediate-deep-learning-with-pytorch/images-convolutional-neural-networks?ex=1
-https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-pytorch
-https://www.kaggle.com/learn/intro-to-deep-learning
+- https://chriskhanhtran.github.io/posts/cnn-sentence-classification/
+- https://campus.datacamp.com/courses/intermediate-deep-learning-with-pytorch/images-convolutional-neural-networks?ex=1
+- https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-pytorch
+- https://www.kaggle.com/learn/intro-to-deep-learning
 
